@@ -2,7 +2,8 @@
 
 **Autor:** Martin Kvietok  
 **Subject:** System Programming and Assemblers  
-**Faculty:** Fakulta informatiky a informačných technológií, STU Bratislava
+**Faculty:** Fakulta informatiky a informačných technológií, STU Bratislava  
+
 ---
 
 ## Popis projektu
