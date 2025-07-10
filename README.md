@@ -8,7 +8,7 @@
 
 ## Popis projektu
 
-Tento Unix-based program je jednoduchý **shell s podporou špeciálnych znakov**, ktorý zároveň umožňuje **simuláciu sieťovej komunikácie** medzi klientom a serverom. Shell umožňuje spúšťať príkazy, pracovať s rúrkami a presmerovaniami, zatiaľ čo klient-server časť umožňuje posielanie správ, ktoré server prevádza na **veľké písmená** a vracia ich späť.
+Tento Unix-based program je jednoduchý **shell s podporou špeciálnych znakov**, ktorý zároveň umožňuje **simuláciu sieťovej komunikácie** medzi klientom a serverom. Shell umožňuje spúšťať príkazy, pracovať s rúrami a presmerovaniami, zatiaľ čo klient-server časť umožňuje posielanie správ, ktoré server prevádza na **veľké písmená** a vracia ich späť klientom.
 
 ---
 
